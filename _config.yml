@@ -14,8 +14,7 @@ roles:
    start: September 2019
    end: Ongoing
    employer: nference.ai
-   description: nference's mission is to synthesize the exponentially growing biomedical knowledge. <br>
-   It uses state-of-the-art neural networks (shallow and deep learning models) for real-time, automated extraction of knowledge from the commercial, scientific and regulatory body of literature.
+   description: nference's mission is to synthesize the exponentially growing biomedical knowledge. <br> It uses state-of-the-art neural networks (shallow and deep learning models) for real-time, automated extraction of knowledge from the commercial, scientific and regulatory body of literature.
   
 
 education:
